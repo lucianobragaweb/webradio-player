@@ -10,12 +10,12 @@ Para instalar em uma página web basta utilizar o código abaixo, subistituindo 
 
 * Opções
 
-Opção | Descrição
------------- | -------------
-player-tytle="Nome da Web Rádio" | Nome da Web Rádio
-player-ip="170.75.145.138" | IP do servidor da Web Rádio
-player-porta="18134" | Porta do Servidor
-player-autoplay="true" | Define o Autoplay
+Opção           | Exemplo                           | Descrição
+----------------|---------------------------------- | ----------------------------------
+player-tytle    |player-tytle="Nome da Web Rádio"   | Nome da Web Rádio
+player-ip       |player-ip="170.75.145.138"         | IP do servidor da Web Rádio
+player-porta    |player-porta="18134"               | Porta do Servidor
+player-autoplay |player-autoplay="true"             | Define o Autoplay
 
 # Futuras implementações
 * Escolha de Temas
