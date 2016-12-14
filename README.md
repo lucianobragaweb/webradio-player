@@ -1,5 +1,5 @@
 # Player Web Rádio
-![Screenshot do player da Web Rádio](https://github.com/lucianobragaweb/Player-Web-Radio/blob/master/screenshot.png?raw=true)
+![Screenshot do player da Web Rádio](https://github.com/lucianobragaweb/Player-Web-Radio/blob/master/screenshot.png?raw=true)<br />
 Player para Web Rádio
 
 # Instalação
@@ -21,3 +21,4 @@ player-autoplay |player-autoplay="true"             | Define o Autoplay
 * Escolha de Temas
 
 # English Version
+Coming soon...
