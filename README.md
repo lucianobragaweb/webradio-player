@@ -1,5 +1,9 @@
 # Player Web Rádio
 Player para Web Rádio
 
-# Ideias
+# Instalação
+
+# Futuras implementações
 * Escolha de Temas
+
+# English Version
