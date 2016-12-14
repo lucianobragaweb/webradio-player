@@ -8,6 +8,12 @@ Para instalar em uma página web basta utilizar o código abaixo, subistituindo 
 
 `<script type="text/javascript" player-tytle="Nome da Web Rádio" player-ip="170.75.145.138" player-porta="18134" player-autoplay="true" src="player.js"></script>`
 
+* Opções
+player-tytle="Nome da Web Rádio"
+player-ip="170.75.145.138"
+player-porta="18134"
+player-autoplay="true"
+
 # Futuras implementações
 * Escolha de Temas
 
