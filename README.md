@@ -1,5 +1,5 @@
 # Player Web Rádio
-![Screenshot do player da Web Rádio](https://lucianobragaweb.github.com/images/radio.png)
+![Screenshot do player da Web Rádio](https://github.com/lucianobragaweb/Player-Web-Radio/blob/master/screenshot.png)
 Player para Web Rádio
 
 # Instalação
