@@ -2,7 +2,7 @@ function carregaCSS(){
 	var file = location.pathname.split( "/" ).pop();
 
 	var link = document.createElement( "link" );
-	link.href = file.substr( 0, "./style.css";
+	link.href = file.substr( 0, file.lastIndexOf( "." ) ) + "./style.css";
 	link.type = "text/css";
 	link.rel = "stylesheet";
 	link.media = "screen,print";
