@@ -11,7 +11,7 @@ function carregaCSS(){
 }
 
 function getInfo(info) {
-    var script = document.querySelectorAll("script[src='player.js']");
+    var script = document.querySelectorAll("script[src='./player.js']");
     var info = script[0].getAttribute(info);
 
     return info;
