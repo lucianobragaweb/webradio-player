@@ -2,7 +2,7 @@ function carregaCSS(){
 	var file = location.pathname.split( "/" ).pop();
 
 	var link = document.createElement( "link" );
-	link.href = "./style.css";
+	link.href = "https://lucianobragaweb.github.io/webradio-player/style.css";
 	link.type = "text/css";
 	link.rel = "stylesheet";
 	link.media = "screen,print";
@@ -11,7 +11,7 @@ function carregaCSS(){
 }
 
 function getInfo(info) {
-    var script = document.querySelectorAll("script[src='./player.js']");
+    var script = document.querySelectorAll("script[src='https://lucianobragaweb.github.io/webradio-player/player.js']");
     var info = script[0].getAttribute(info);
 
     return info;
