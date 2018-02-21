@@ -69,36 +69,36 @@
 }
 
 #bragaPanel {
-	    font-size: 16px;
-	    padding: 5px 0px;
-	    text-align: center;
-	    background-color: #f1f1f1;
-	    color: white;
-	    background-color: #f1f1f1;
-	    border-bottom: 1px solid #fff;
-    	border-top: 1px solid #fff;
-	    margin-top: 10px;
-	    padding-right: 5px;
-	    display: none;
-	}
+    font-size: 16px;
+    padding: 5px 0px;
+    text-align: center;
+    background-color: #f1f1f1;
+    color: white;
+    background-color: #f1f1f1;
+    border-bottom: 1px solid #fff;
+	border-top: 1px solid #fff;
+    margin-top: 10px;
+    padding-right: 5px;
+    display: none;
+}
 
 #bragaRadio	.bt{
-		cursor: pointer;
-		padding: 10px;
-		float: right;
-		-webkit-border-radius: 50px;
-		-moz-border-radius: 50px;
-		border-radius: 50px;
-		background: #FE8698 url(code.png) no-repeat center;
-		background-size: 10px
-	}
-	textarea {
-		width: 100%;
-		border: none;
-		color: #aaa;
-		font-size: 8pt
-	}
+	cursor: pointer;
+	padding: 10px;
+	float: right;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+	background: #FE8698 url(code.png) no-repeat center;
+	background-size: 10px
+}
+textarea {
+	width: 100%;
+	border: none;
+	color: #aaa;
+	font-size: 8pt
+}
 
 #bragaRadio	#panel, #fechar {
-	    display: none;
-	}
+    display: none;
+}
