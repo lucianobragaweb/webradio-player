@@ -59,7 +59,7 @@
 	font-size: 10pt
 }
 
-#bragaRadio .footer p{
+#bragaRadio .footer{
 	-webkit-border-bottom-right-radius: 5px;
 	-webkit-border-bottom-left-radius: 5px;
 	-moz-border-radius-bottomright: 5px;
