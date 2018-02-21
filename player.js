@@ -2,7 +2,7 @@ function carregaCSS(){
 	var file = location.pathname.split( "/" ).pop();
 
 	var link = document.createElement( "link" );
-	link.href = file.substr( 0, file.lastIndexOf( "." ) ) + "style.css";
+	link.href = file.substr( 0, file.lastIndexOf( "." ) ) + "/style.css";
 	link.type = "text/css";
 	link.rel = "stylesheet";
 	link.media = "screen,print";
@@ -45,13 +45,13 @@ function montar(){
 		'</audio>' + // #bragaPlayer
 		'<div class="footer">' +
 			'<p>' +
-				'Desenvolvido por <a target="_blank" href="http://lucianobragaweb.com.br" title="Programador Web Luciano Braga" alt="Programador Web Luciano Braga">Luciano Braga</a>' +
+				'Player desenvolvido por <a target="_blank" href="https://lucianobragaweb.github.io" title="Programador Web Luciano Braga" alt="Programador Web Luciano Braga">Luciano Braga</a>' +
 				'<span id="abrir" class="bt"></span>' +
 				'<span id="fechar" class="bt"></span>' +
 			'</p>' +
 			'<div id="bragaPanel">' +
 		  		'<textarea onclick="this.focus();this.select()" readonly="readonly">' +
-		  			'<script type="text/javascript" player-tytle="Web Rádio Tal" player-ip="' + ip + '" player-porta="' + porta + '" player-autoplay="' + getInfo('player-autoplay') + '" src="http://lucianobragaweb.com.br/radio/player.js"></script>' +
+		  			'<script type="text/javascript" player-tytle="' + tytle + '" player-ip="' + ip + '" player-porta="' + porta + '" player-autoplay="' + getInfo('player-autoplay') + '" src="https://lucianobragaweb.github.io/webradio/player.js"></script>' +
 		  		'</textarea>' +
 			'</div>' +
 		'</div>' + // #footer
