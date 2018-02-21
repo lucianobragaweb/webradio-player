@@ -51,7 +51,7 @@ function montar(){
 			'</p>' +
 			'<div id="bragaPanel">' +
 		  		'<textarea onclick="this.focus();this.select()" readonly="readonly">' +
-		  			'<script type="text/javascript" player-tytle="' + tytle + '" player-ip="' + ip + '" player-porta="' + porta + '" player-autoplay="' + getInfo('player-autoplay') + '" src="https://lucianobragaweb.github.io/webradio/player.js"></script>' +
+		  			'<script type="text/javascript" player-tytle="' + tytle + '" player-ip="' + ip + '" player-porta="' + porta + '" player-autoplay="' + getInfo('player-autoplay') + '" src="https://lucianobragaweb.github.io/webradio-player/player.js"></script>' +
 		  		'</textarea>' +
 			'</div>' +
 		'</div>' + // #footer
